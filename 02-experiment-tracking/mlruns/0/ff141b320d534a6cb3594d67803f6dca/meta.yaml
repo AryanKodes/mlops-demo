@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ff141b320d534a6cb3594d67803f6dca/artifacts
+end_time: 1770362916833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff141b320d534a6cb3594d67803f6dca
+run_name: adorable-lark-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770362911555
+status: 4
+tags: []
+user_id: codespace

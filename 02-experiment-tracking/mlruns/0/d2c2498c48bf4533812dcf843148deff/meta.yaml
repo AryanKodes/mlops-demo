@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d2c2498c48bf4533812dcf843148deff/artifacts
+end_time: 1770362318359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2c2498c48bf4533812dcf843148deff
+run_name: secretive-foal-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770362310122
+status: 4
+tags: []
+user_id: codespace

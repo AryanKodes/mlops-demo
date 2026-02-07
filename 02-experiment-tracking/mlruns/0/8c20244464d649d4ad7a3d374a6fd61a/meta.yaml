@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8c20244464d649d4ad7a3d374a6fd61a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c20244464d649d4ad7a3d374a6fd61a
+run_name: lyrical-robin-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770363167299
+status: 1
+tags: []
+user_id: codespace

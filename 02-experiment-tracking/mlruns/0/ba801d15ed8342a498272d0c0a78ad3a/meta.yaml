@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ba801d15ed8342a498272d0c0a78ad3a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba801d15ed8342a498272d0c0a78ad3a
+run_name: masked-shrike-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770362926024
+status: 1
+tags: []
+user_id: codespace

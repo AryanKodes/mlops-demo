@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/43a641b7552f42f5a0f5b9218f320a6e/artifacts
+end_time: 1770433384150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43a641b7552f42f5a0f5b9218f320a6e
+run_name: loud-gull-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770433378609
+status: 3
+tags: []
+user_id: codespace

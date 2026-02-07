@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4217d6795ed849d2a087917dec6155cb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4217d6795ed849d2a087917dec6155cb
+run_name: languid-rat-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770364568424
+status: 1
+tags: []
+user_id: codespace

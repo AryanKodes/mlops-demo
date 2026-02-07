@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/236b29ea423b4c7d8445aefdd48414b9/artifacts
+end_time: 1770364220883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 236b29ea423b4c7d8445aefdd48414b9
+run_name: classy-fish-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770364213801
+status: 3
+tags: []
+user_id: codespace

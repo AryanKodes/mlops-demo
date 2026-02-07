@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a918aae3daea4d87b26905a933ef688e/artifacts
+end_time: 1770362392602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a918aae3daea4d87b26905a933ef688e
+run_name: inquisitive-cow-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770362387147
+status: 3
+tags: []
+user_id: codespace

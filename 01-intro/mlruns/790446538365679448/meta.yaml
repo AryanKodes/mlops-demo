@@ -1,6 +1,0 @@
-artifact_location: file:///workspaces/mlops-demo/01-intro/mlruns/790446538365679448
-creation_time: 1770360473082
-experiment_id: '790446538365679448'
-last_update_time: 1770360473082
-lifecycle_stage: active
-name: my-brand-new-experiment

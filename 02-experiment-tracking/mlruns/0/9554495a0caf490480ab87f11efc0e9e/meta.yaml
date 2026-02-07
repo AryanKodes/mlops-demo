@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9554495a0caf490480ab87f11efc0e9e/artifacts
+end_time: 1770433247521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9554495a0caf490480ab87f11efc0e9e
+run_name: able-colt-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770433241862
+status: 4
+tags: []
+user_id: codespace

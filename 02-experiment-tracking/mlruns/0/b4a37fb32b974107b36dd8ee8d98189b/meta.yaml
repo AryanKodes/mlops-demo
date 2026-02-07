@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b4a37fb32b974107b36dd8ee8d98189b/artifacts
+end_time: 1770362545939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4a37fb32b974107b36dd8ee8d98189b
+run_name: resilient-robin-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770362540622
+status: 3
+tags: []
+user_id: codespace

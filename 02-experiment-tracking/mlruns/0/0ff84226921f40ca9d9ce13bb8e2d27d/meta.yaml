@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0ff84226921f40ca9d9ce13bb8e2d27d/artifacts
+end_time: 1770362336750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ff84226921f40ca9d9ce13bb8e2d27d
+run_name: languid-cub-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770362328425
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c641d63a1528499da1f878007908646f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c641d63a1528499da1f878007908646f
+run_name: thoughtful-loon-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770364325563
+status: 1
+tags: []
+user_id: codespace

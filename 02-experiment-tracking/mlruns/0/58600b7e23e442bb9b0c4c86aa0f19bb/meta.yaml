@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/58600b7e23e442bb9b0c4c86aa0f19bb/artifacts
+end_time: 1770363928836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58600b7e23e442bb9b0c4c86aa0f19bb
+run_name: inquisitive-fly-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770363928827
+status: 4
+tags: []
+user_id: codespace

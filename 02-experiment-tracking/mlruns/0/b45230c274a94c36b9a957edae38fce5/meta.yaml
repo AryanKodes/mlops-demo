@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b45230c274a94c36b9a957edae38fce5/artifacts
+end_time: 1770362906412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b45230c274a94c36b9a957edae38fce5
+run_name: sassy-roo-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770362901187
+status: 3
+tags: []
+user_id: codespace

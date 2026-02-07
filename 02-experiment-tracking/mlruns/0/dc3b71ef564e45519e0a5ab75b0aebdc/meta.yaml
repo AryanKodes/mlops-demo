@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dc3b71ef564e45519e0a5ab75b0aebdc/artifacts
+end_time: 1770364144518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc3b71ef564e45519e0a5ab75b0aebdc
+run_name: shivering-ram-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770364134806
+status: 4
+tags: []
+user_id: codespace

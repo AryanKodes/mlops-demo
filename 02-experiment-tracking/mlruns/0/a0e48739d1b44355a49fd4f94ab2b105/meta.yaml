@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a0e48739d1b44355a49fd4f94ab2b105/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0e48739d1b44355a49fd4f94ab2b105
+run_name: auspicious-cat-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770364995801
+status: 1
+tags: []
+user_id: codespace
