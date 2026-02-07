@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e7d2e979962b4b61a4dfe874b295b65e/artifacts
+end_time: 1770437050087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7d2e979962b4b61a4dfe874b295b65e
+run_name: victorious-mink-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770437050076
+status: 4
+tags: []
+user_id: codespace

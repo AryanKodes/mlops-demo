@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/24d0974d10f14079a643555540165c20/artifacts
+end_time: 1770437248156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24d0974d10f14079a643555540165c20
+run_name: overjoyed-penguin-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770437242748
+status: 3
+tags: []
+user_id: codespace

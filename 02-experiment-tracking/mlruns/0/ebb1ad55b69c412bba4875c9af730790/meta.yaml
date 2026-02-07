@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ebb1ad55b69c412bba4875c9af730790/artifacts
+end_time: 1770436924660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebb1ad55b69c412bba4875c9af730790
+run_name: unequaled-tern-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770436924650
+status: 4
+tags: []
+user_id: codespace

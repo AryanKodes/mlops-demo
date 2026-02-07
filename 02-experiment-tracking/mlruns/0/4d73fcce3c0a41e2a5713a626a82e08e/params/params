@@ -1,0 +1,1 @@
+{'learning_rate': 0.6395166065794694, 'max_depth': 48, 'min_chid_weight': 10.8566561507751, 'objective': 'reg:linear', 'reg_alpha': 0.014675613852204039, 'reg_lambda': 0.007240175954541707, 'seed': 42}
