@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/05dae2d4d38a4de6b621627cee7e4405/artifacts
+end_time: 1770449510648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05dae2d4d38a4de6b621627cee7e4405
+run_name: judicious-crab-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770449487180
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4319aeb4928d40f4991a7f4277072932/artifacts
+end_time: 1770449541817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4319aeb4928d40f4991a7f4277072932
+run_name: rumbling-carp-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770449533014
+status: 3
+tags: []
+user_id: codespace

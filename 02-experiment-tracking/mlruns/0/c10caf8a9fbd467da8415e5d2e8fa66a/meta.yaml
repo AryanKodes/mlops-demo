@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c10caf8a9fbd467da8415e5d2e8fa66a/artifacts
+end_time: 1770449556787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c10caf8a9fbd467da8415e5d2e8fa66a
+run_name: persistent-sloth-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770449541827
+status: 3
+tags: []
+user_id: codespace

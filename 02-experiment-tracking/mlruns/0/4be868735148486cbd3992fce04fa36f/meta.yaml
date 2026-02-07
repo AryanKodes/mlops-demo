@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4be868735148486cbd3992fce04fa36f/artifacts
+end_time: 1770449612323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4be868735148486cbd3992fce04fa36f
+run_name: nebulous-fly-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770449582545
+status: 3
+tags: []
+user_id: codespace

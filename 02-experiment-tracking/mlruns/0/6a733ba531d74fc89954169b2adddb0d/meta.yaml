@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6a733ba531d74fc89954169b2adddb0d/artifacts
+end_time: 1770449487173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a733ba531d74fc89954169b2adddb0d
+run_name: crawling-chimp-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770449456815
+status: 3
+tags: []
+user_id: codespace

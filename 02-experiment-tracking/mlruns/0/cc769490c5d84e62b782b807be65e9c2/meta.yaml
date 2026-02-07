@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cc769490c5d84e62b782b807be65e9c2/artifacts
+end_time: 1770449642200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc769490c5d84e62b782b807be65e9c2
+run_name: merciful-owl-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770449627087
+status: 3
+tags: []
+user_id: codespace

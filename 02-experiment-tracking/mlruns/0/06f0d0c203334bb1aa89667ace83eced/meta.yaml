@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/06f0d0c203334bb1aa89667ace83eced/artifacts
+end_time: 1770449627079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06f0d0c203334bb1aa89667ace83eced
+run_name: legendary-chimp-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770449612331
+status: 3
+tags: []
+user_id: codespace

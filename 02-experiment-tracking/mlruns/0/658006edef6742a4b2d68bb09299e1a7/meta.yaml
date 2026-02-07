@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/658006edef6742a4b2d68bb09299e1a7/artifacts
+end_time: 1770449582536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 658006edef6742a4b2d68bb09299e1a7
+run_name: beautiful-jay-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770449556794
+status: 3
+tags: []
+user_id: codespace
